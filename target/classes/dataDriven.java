@@ -52,6 +52,8 @@ public class dataDriven {
 					k++;
 				}
 				System.out.println(coloumn);
+				System.out.println(coloumn1);
+				System.out.println(coloumn);
 				
 				////once coloumn is identified then scan entire testcase coloum to identify purcjhase testcase row
 				while(rows.hasNext())

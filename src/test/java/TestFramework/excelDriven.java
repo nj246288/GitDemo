@@ -39,8 +39,7 @@ public class excelDriven {
 		map.put("lat", "12");
 		map.put("lng", "34");
 		map.put("location", map2);*/
-		
-		
+		System.out.println("map");		
 		RestAssured.baseURI="http://216.10.245.166";
 		Response resp=given().
 				header("Content-Type","application/json").

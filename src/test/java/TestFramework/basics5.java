@@ -41,7 +41,7 @@ public void extractingNamesAPI()
 			  System.out.println(js.get("results["+i+"].name"));
 		   }
 		   System.out.println(count);
-		       
+		   System.out.println("count");
 		       
 		       /*header("dfd","fsdfds").
 		       cookie("dsfs","csder").
